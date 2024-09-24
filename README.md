@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Software Engineering Student from Morocco 🚀</h3>
 
 <p align="center">
-  🎓 I’m currently pursuing my degree in Software Engineering at <strong>[The National School of Artificial Intelligence and Digitalization (ENIAD)]</strong>.<br>
+  🎓 I’m currently pursuing my degree in Software Engineering at <strong>The National School of Artificial Intelligence and Digitalization (ENIAD)</strong>.<br>
   💻 I’m working on building web and mobile applications.<br>
   🌱 I’m currently learning <strong>Java (Spring Boot)</strong> and improving my <strong>competitive programming</strong> skills.<br>
   💡 I love solving problems and building software solutions.
