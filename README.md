@@ -69,6 +69,6 @@
 
 <h2>📫 How to reach me</h2>
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/yassine-abbou-21a47024a/" target="_blank">LinkedIn</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/yassine-abbou-21a47024a/">LinkedIn</a></li>
   <li>Email: <a href="mailto:yssnabbou2002@gmail.com">yssnabbou2002@gmail.com</a></li>
 </ul>
