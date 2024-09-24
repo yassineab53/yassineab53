@@ -53,6 +53,7 @@
 <ul>
   <li>📖 <strong>State Engineer in Software Engineering</strong> (Ongoing, ENIAD Berkane)</li>
   <li>📜 DEUG in Mathematics and Computer Science with high distinction (15.94/20 average)</li>
+  <li>🏆 Oracle Certified Java SE 17 Developer (Preparing)</li>
 </ul>
 
 <hr>
