@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yassineab.netlify.app/" target="_blank">🔗 Check out my Portfolio</a>
+  <a href="https://yassineab.netlify.app/" target="_blank" rel="noopener noreferrer">>🔗 Check out my Portfolio</a>
 </p>
 
 <hr>
