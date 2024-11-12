@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Yassine Abbou!</h1>
 
-<h3 align="center">Software Engineering Student | Web & Mobile Development Enthusiast | Passionate About Software Architecture 🚀</h3>
+<h3 align="center">Software Engineering Student | Competitive Programmer | Passionate About Software Architecture 🚀</h3>
 
 <p align="center">
-  Passionate about web and mobile development, I'm constantly exploring innovative software solutions. Currently, I'm pursuing a degree in Software Engineering at ENIAD, Berkane.
+  Highly ambitious and passionate software engineer with a strong dedication to competitive programming. Diligent and motivated student. Dependable, diplomatic and respected colleague.   
+  Thriving on teamwork. Open-minded and persistent problem solver. Striving to learn, apply and create to solve the challenges of our future.
+  Currently, I'm pursuing a degree in Software Engineering at ENIAD, Berkane.
 </p>
 
 <hr>
