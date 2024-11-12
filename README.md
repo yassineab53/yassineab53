@@ -8,6 +8,10 @@
   Currently, I'm pursuing a degree in Software Engineering at ENIAD, Berkane.
 </p>
 
+<p align="center">
+  <a href="https://yassineab.netlify.app/" target="_blank">🔗 Check out my Portfolio</a>
+</p>
+
 <hr>
 
 <h2>🛠️ Technologies & Tools</h2>
