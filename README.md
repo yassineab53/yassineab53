@@ -18,15 +18,15 @@
 
 <div align="center">
   <p>Consistency and impactful contributions are the essence of my coding journey. Here's my GitHub activity at a glance:</p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubMah&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineab53&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 📊 Stats & Highlights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubMah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubMah&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassineab53&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineab53&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
